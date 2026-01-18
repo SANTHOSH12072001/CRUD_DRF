@@ -10,7 +10,7 @@ Technologies Used
 - Django REST Framework
 - SimpleJWT
 - SQLite
--PostMan
+- PostMan
 
 Steps to Run the Project Locally
 
@@ -87,3 +87,4 @@ Only authenticated users can access APIs.
 
 Conclusion
 This API uses JWT authentication, follows REST standards, and supports pagination and filtering.
+
